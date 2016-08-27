@@ -1,0 +1,1 @@
+C:\Users\tim\Documents\Unity Projects\ParallelComputing\obj\x64\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

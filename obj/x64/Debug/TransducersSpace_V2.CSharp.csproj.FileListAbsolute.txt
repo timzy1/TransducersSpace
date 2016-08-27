@@ -1,0 +1,15 @@
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\Assembly-CSharp.dll
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\Assembly-CSharp.pdb
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\Meta.Numerics.dll
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\TestCSharpLibrary.dll
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\UnityEditor.dll
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\UnityEngine.dll
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\UnityEngine.Networking.dll
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\UnityEngine.UI.dll
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\UnityEngine.xml
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\UnityEngine.UI.xml
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\UnityEngine.Networking.xml
+D:\Unity Projects\TransducersSpace_V2\bin\x64\Debug\UnityEditor.xml
+D:\Unity Projects\TransducersSpace_V2\obj\x64\Debug\TransducersSpace_V2.CSharp.csprojResolveAssemblyReference.cache
+D:\Unity Projects\TransducersSpace_V2\obj\x64\Debug\Assembly-CSharp.dll
+D:\Unity Projects\TransducersSpace_V2\obj\x64\Debug\Assembly-CSharp.pdb
