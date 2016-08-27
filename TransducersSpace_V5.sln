@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransducersSpace_V5.CSharp", "TransducersSpace_V5.CSharp.csproj", "{C7681A8D-E98E-736B-56D6-E48908DD4FA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransducersSpace_V5.CSharp.Editor", "TransducersSpace_V5.CSharp.Editor.csproj", "{7D9958FF-1A05-D0BC-9846-67E9940079BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7681A8D-E98E-736B-56D6-E48908DD4FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7681A8D-E98E-736B-56D6-E48908DD4FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7681A8D-E98E-736B-56D6-E48908DD4FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7681A8D-E98E-736B-56D6-E48908DD4FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9958FF-1A05-D0BC-9846-67E9940079BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9958FF-1A05-D0BC-9846-67E9940079BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9958FF-1A05-D0BC-9846-67E9940079BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9958FF-1A05-D0BC-9846-67E9940079BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
